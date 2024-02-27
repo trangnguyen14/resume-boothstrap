@@ -1,1 +1,1 @@
-# resume-boothstrap
+# resume-bootstrap
